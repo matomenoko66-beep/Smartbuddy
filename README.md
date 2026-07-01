@@ -1,0 +1,2 @@
+# Smartbuddy
+Ai assistant 
